@@ -1,0 +1,5 @@
+Git es un sistema de control de versiones que permite gestionar los cambios de los archivos de un proyecto, guardar su historial, crear ramas y fusionarlas. Puede funcionar localmente sin conexión a Internet.
+
+GitHub es una plataforma en la nube que permite alojar repositorios Git, compartir código, colaborar con otros desarrolladores y gestionar proyectos mediante herramientas como los Pull Requests.
+
+En resumen, Git gestiona las versiones del código y GitHub permite almacenarlas y compartirlas en Internet. Puedes utilizar Git sin necesidad de utilizar GitHub.
